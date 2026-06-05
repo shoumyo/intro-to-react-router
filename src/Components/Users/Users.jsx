@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLoaderData } from 'react-router';
 
-const Users = ({}) => {
+const Users = () => {
 
     const users=useLoaderData();
 
